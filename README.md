@@ -11,3 +11,4 @@
 - Ravenscourt Park
 - West Kensington
 - Earl's Court
+- South Kensington
