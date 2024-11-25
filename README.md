@@ -9,3 +9,4 @@
 ## Hammersmith & City
 
 - South Kensington
+- Sloane Square
