@@ -7,3 +7,5 @@
 - white city
 
 ## Hammersmith & City
+
+- South Kensington
